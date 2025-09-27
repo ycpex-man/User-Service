@@ -1,5 +1,5 @@
 /.idea/
 /logs/
 /target/
-/User-ServiceApp/
+/user-service/
 /.env
